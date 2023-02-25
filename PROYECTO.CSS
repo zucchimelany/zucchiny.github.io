@@ -1,0 +1,48 @@
+
+body {
+	font-family: 'Merriweather', serif;
+	min-height: 80vh;
+	display:flex;
+    align-items:center;
+    justify-content: center;
+	background-image: url('https://www.luxewalls.com.au/wp-content/uploads/2020/08/200812-Luxe-Block-Colour_Harbour-Blue.png');
+	
+}
+
+
+.FotoDePerfil img {
+	width: 20%;
+	border-radius: 80%;
+
+}
+
+.Inicio {
+
+    font-family: 'Merriweather', serif;
+    font-size: 19px;
+	text-align: center;
+	color: skyblue;
+	margin-top: 0,5rem;
+}
+
+  .Sobremi{
+	padding: 0 1rem;
+	color: blue;
+}
+.Sobremi .Titulo {
+
+	font-size: 1rem;
+	font-weight: bold;
+	text-transform: uppercase;
+	letter-spacing: 1px;
+}
+.Info {
+	text-align: justify;
+}
+
+.secretario {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 30%;
+  }
